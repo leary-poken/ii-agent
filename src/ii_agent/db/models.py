@@ -582,4 +582,3 @@ class BillingTransaction(Base):
             "stripe_subscription_id",
         ),
     )
-
